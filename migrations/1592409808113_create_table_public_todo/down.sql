@@ -1,1 +1,1 @@
-DROP TABLE "public"."todo"
+DROP TABLE IF EXISTS "public"."users";
